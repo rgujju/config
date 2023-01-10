@@ -1,0 +1,3 @@
+ln -sf ${PWD}/filetype.vim ~/.config/nvim/filetype.vim
+ln -sf ${PWD}/ftplugin ~/.config/nvim/
+ln -sf ${PWD}/custom ~/.config/nvim/lua/custom
